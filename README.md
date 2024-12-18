@@ -14,7 +14,7 @@ https://dexscreener.com/ton/EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM
 
 ### 🌐 The Temporary $PNXPW Token on TON: A Bridge to the Main Project on Solana
 
-$Supw is a temporary token on TON, created to gather capital and build an initial community. In the future, PNXPW will be integrated into the main project on Solana, enabling TON users to easily transition to Solana and back. Our goal is to create a simple and convenient pathway for interaction with both networks, expanding the project’s reach and attracting a new audience.
+PNXPW is a temporary token on TON, created to gather capital and build an initial community. In the future, PNXPW will be integrated into the main project on Solana, enabling TON users to easily transition to Solana and back. Our goal is to create a simple and convenient pathway for interaction with both networks, expanding the project’s reach and attracting a new audience.
 
 - **Benefits for TON Users**: Become part of the project at an early stage and access the capital and bonuses that will be available in the main network.
 - **Integration with Solana**: In the future, $Supw will serve as a bridge, facilitating a seamless transition between the TON and Solana ecosystems.
@@ -34,7 +34,7 @@ If you’d like to learn more or are ready to collaborate, reach out to us on [T
 
 
 
-This README highlights the temporary nature of the $Supw token on TON, its role in gathering capital and building an audience, and the planned integration with the main project on Solana, allowing users to transition smoothly between networks.
+This README highlights the temporary nature of the PNXPW token on TON, its role in gathering capital and building an audience, and the planned integration with the main project on Solana, allowing users to transition smoothly between networks.
 
 <!---
 PhoenixPaw/PhoenixPaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
