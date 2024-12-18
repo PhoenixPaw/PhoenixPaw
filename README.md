@@ -3,18 +3,18 @@
 
 https://dexscreener.com/ton/EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM
 
-- 👀 I’m interested in **creating a sustainable and rewarding ecosystem for my project, with a temporary token, $Supw, on the TON network. This token will later be integrated into the main project on Solana, allowing us to gather capital and introduce the TON audience to the project, creating a smooth pathway for transitioning between TON and Solana.**
+- 👀 I’m interested in **creating a sustainable and rewarding ecosystem for my project, with a temporary token, $PNXPW, on the TON network. This token will later be integrated into the main project on Solana, allowing us to gather capital and introduce the TON audience to the project, creating a smooth pathway for transitioning between TON and Solana.**
 - 🌱 I’m currently learning **cross-chain bridges and methods to facilitate user transitions between the TON and Solana ecosystems, making the project accessible to a broader audience.**
 - 💞️ I’m looking to collaborate on projects focused on **cross-chain integration, multi-network solutions, as well as the development of DeFi and NFT products.**
 - 📫 How to reach me: **Join our community on [Telegram](https://t.me/PhoenixPaw) or follow us on [Twitter](https://x.com/PawPhoenixoff) for updates.**
 - 😄 Pronouns: **Him**
-- ⚡ Fun fact: **The temporary $Supw token on TON is a gateway to capital and community building, serving as a bridge to our main project on Solana. In the future, this will allow users to seamlessly transition between both blockchain networks, strengthening our multi-chain ecosystem.**
+- ⚡ Fun fact: **The temporary PNXPW token on TON is a gateway to capital and community building, serving as a bridge to our main project on Solana. In the future, this will allow users to seamlessly transition between both blockchain networks, strengthening our multi-chain ecosystem.**
 
 ---
 
 ### 🌐 The Temporary $PNXPW Token on TON: A Bridge to the Main Project on Solana
 
-$Supw is a temporary token on TON, created to gather capital and build an initial community. In the future, $Supw will be integrated into the main project on Solana, enabling TON users to easily transition to Solana and back. Our goal is to create a simple and convenient pathway for interaction with both networks, expanding the project’s reach and attracting a new audience.
+$Supw is a temporary token on TON, created to gather capital and build an initial community. In the future, PNXPW will be integrated into the main project on Solana, enabling TON users to easily transition to Solana and back. Our goal is to create a simple and convenient pathway for interaction with both networks, expanding the project’s reach and attracting a new audience.
 
 - **Benefits for TON Users**: Become part of the project at an early stage and access the capital and bonuses that will be available in the main network.
 - **Integration with Solana**: In the future, $Supw will serve as a bridge, facilitating a seamless transition between the TON and Solana ecosystems.
