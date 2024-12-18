@@ -1,5 +1,6 @@
 
-- 👋 Hi, I’m **@SupwToken**SPX**
+- 👋 Hi, I’m **PNXPW** creator(den)28 years old from Israel. I have business selling and installation parquet in Israel.
+
 - 👀 I’m interested in **creating a sustainable and rewarding ecosystem for my project, with a temporary token, $Supw, on the TON network. This token will later be integrated into the main project on Solana, allowing us to gather capital and introduce the TON audience to the project, creating a smooth pathway for transitioning between TON and Solana.**
 - 🌱 I’m currently learning **cross-chain bridges and methods to facilitate user transitions between the TON and Solana ecosystems, making the project accessible to a broader audience.**
 - 💞️ I’m looking to collaborate on projects focused on **cross-chain integration, multi-network solutions, as well as the development of DeFi and NFT products.**
