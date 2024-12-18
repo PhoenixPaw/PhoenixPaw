@@ -12,7 +12,7 @@ https://dexscreener.com/ton/EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM
 
 ---
 
-### 🌐 The Temporary $Supw Token on TON: A Bridge to the Main Project on Solana
+### 🌐 The Temporary $PNXPW Token on TON: A Bridge to the Main Project on Solana
 
 $Supw is a temporary token on TON, created to gather capital and build an initial community. In the future, $Supw will be integrated into the main project on Solana, enabling TON users to easily transition to Solana and back. Our goal is to create a simple and convenient pathway for interaction with both networks, expanding the project’s reach and attracting a new audience.
 
