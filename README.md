@@ -1,7 +1,14 @@
 
 - 👋 Hi, I’m **PNXPW** creator(den)28 years old from Israel. I have business selling and installation parquet in Israel.
 
-https://dexscreener.com/ton/EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM
+This link for see :
+https://dexscreener.com/ton/EQCR43SC9DIpXwlJpz7TCUXY033rS3CEjWj99j35PiMPX3un
+
+this link for buy :
+https://dedust.io/swap/TON/EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
+
+this link for add liquid:
+https://dedust.io/pools/EQCR43SC9DIpXwlJpz7TCUXY033rS3CEjWj99j35PiMPX3un/deposit
 
 - 👀 I’m interested in **creating a sustainable and rewarding ecosystem for my project, with a temporary token, $PNXPW, on the TON network. This token will later be integrated into the main project on Solana, allowing us to gather capital and introduce the TON audience to the project, creating a smooth pathway for transitioning between TON and Solana.**
 - 🌱 I’m currently learning **cross-chain bridges and methods to facilitate user transitions between the TON and Solana ecosystems, making the project accessible to a broader audience.**
@@ -10,7 +17,7 @@ https://dexscreener.com/ton/EQAdltEfzXG_xteLFaKFGd-HPVKrEJqv_FdC7z2roOddRNdM
 - 😄 Pronouns: **Him**
 - ⚡ Fun fact: **The temporary PNXPW token on TON is a gateway to capital and community building, serving as a bridge to our main project on Solana. In the future, this will allow users to seamlessly transition between both blockchain networks, strengthening our multi-chain ecosystem.**
 
----
+
 
 ### 🌐 The Temporary $PNXPW Token on TON: A Bridge to the Main Project on Solana
 
