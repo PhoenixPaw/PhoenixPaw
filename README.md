@@ -2,13 +2,11 @@
 - 👋 Hi, I’m **PNXPW** creator(den)28 years old from Israel. I have business selling and installation parquet in Israel.
 
 This link for see :
-https://dexscreener.com/ton/EQCR43SC9DIpXwlJpz7TCUXY033rS3CEjWj99j35PiMPX3un
+https://dexscreener.com/ton/eqadltefzxg_xtelfakfgd-hpvkrejqv_fdc7z2rooddrndm
 
-this link for buy :
-https://dedust.io/swap/TON/EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
+adess
+EQABtSLSzrAOISWPfIjBl2VmeStkM1eHaPrUxRTj8mY-9h43
 
-this link for add liquid:
-https://dedust.io/pools/EQCR43SC9DIpXwlJpz7TCUXY033rS3CEjWj99j35PiMPX3un/deposit
 
 - 👀 I’m interested in **creating a sustainable and rewarding ecosystem for my project, with a temporary token, $PNXPW, on the TON network. This token will later be integrated into the main project on Solana, allowing us to gather capital and introduce the TON audience to the project, creating a smooth pathway for transitioning between TON and Solana.**
 - 🌱 I’m currently learning **cross-chain bridges and methods to facilitate user transitions between the TON and Solana ecosystems, making the project accessible to a broader audience.**
