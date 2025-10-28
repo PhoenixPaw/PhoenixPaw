@@ -1,0 +1,124 @@
+{
+  "name": "PHXPW Merch Key #001",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "001/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #002",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "002/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #003",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "003/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #004",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "004/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #005",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "005/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #006",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "006/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #007",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "007/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #008",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "008/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #009",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "009/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #010",
+  "description": "Burn-to-Redeem access pass. Option: Hoodie. NFT burns on redemption; holder receives physical product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Hoodie"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "010/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #011",
+  "description": "Burn-to-Redeem access pass. Option: Merch Set (hoodie + headwear + pants, seasonal substitution possible). NFT burns on redemption; holder receives product and NFT certificate.",
+  "external_url": "https://phoenixpaw.io/",
+  "image": "ipfs://REPLACE_ME",
+  "attributes": [
+    {"trait_type": "Utility", "value": "Merch Set (3 items)"},
+    {"trait_type": "Burn Rule", "value": "Burn to Redeem"},
+    {"trait_type": "Edition", "value": "011/500"}
+  ]
+}
+{
+  "name": "PHXPW Merch Key #012",
+  "description": "Burn-to-Redeem access pass. Option: Merch Set (hoodie + headwear + pants, seasonal substitution possible). NFT burns on
